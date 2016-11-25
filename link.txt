@@ -1,0 +1,5 @@
+http://tutorialsbuzz.com/2015/11/android-collapsingtoolbarlayout-example_7.html
+
+collapsing toolbar android example
+
+https://github.com/codepath/android_guides/wiki/Handling-Scrolls-with-CoordinatorLayout
