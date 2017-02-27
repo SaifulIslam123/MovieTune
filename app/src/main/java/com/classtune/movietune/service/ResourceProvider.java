@@ -52,7 +52,7 @@ public class ResourceProvider {
         Response response = okHttpClient.newCall(request).execute();
         ResponseBody responseBody = response.body();
         String responseBodyString = responseBody.string();
-        responseBody.close(); // fuck yea!
+        responseBody.close();
         return responseBodyString;
 
     }
